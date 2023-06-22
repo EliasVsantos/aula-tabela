@@ -1,0 +1,35 @@
+body{
+    background-color: gray;
+    padding: 75px;
+    
+}
+
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    color: aquamarine;
+    justify-content: center;
+    text-align: center;
+}
+
+h2{
+    color: aquamarine;
+}
+
+th{
+    text-align: center;
+    justify-content: center;
+    padding: 15px;
+    border: 2px solid aquamarine;
+    
+}
+
+td{
+    padding: 15px;
+    justify-content: center;
+    text-align: center;
+    border: 1px solid green;
+}
+img{
+    width: 225px;
+    height: 225´x;
+}
