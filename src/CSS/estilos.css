@@ -2,8 +2,10 @@
 body{
     background-color: gray;
     padding: 75px;
-    min-width: 700px;
-    max-width: 1024px;    
+    min-width: 724px;
+    max-width: 1024px; 
+    min-height: 724px;
+    max-height: 1024px;   
 }
 
 h1{
