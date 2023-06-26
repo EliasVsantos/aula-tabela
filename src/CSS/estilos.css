@@ -1,14 +1,16 @@
-
 body{
+    
     background-color: gray;
-    padding: 75px;
-    min-width: 724px;
-    max-width: 1024px; 
-    min-height: 724px;
-    max-height: 1024px;   
+    padding: 2.5px;
+    border: 0.5px solid green;
+    min-width: 375px;
+    max-width: 1024px;
+
+    
 }
 
 h1{
+    padding: 25px;
     font-family: 'Times New Roman', Times, serif;
     color: aquamarine;
     
@@ -16,13 +18,15 @@ h1{
 
 h2{
     color: aquamarine;
+    padding: 15px;
 }
 
 th{
     text-align: center;
     justify-content: center;
     padding: 15px;
-    border: 2px solid aquamarine;
+    border: 0.5px solid aquamarine;
+    box-sizing: border-box;
     
 }
 
@@ -30,7 +34,8 @@ td{
     padding: 15px;
     justify-content: center;
     text-align: center;
-    border: 1px solid green;
+    border: 0.5px solid aquamarine;
+    box-sizing: border-box;
 }
 img{
     width: 225px;
